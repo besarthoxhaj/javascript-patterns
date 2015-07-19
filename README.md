@@ -1,2 +1,3 @@
-# patterns
-Description and examples of javascript patterns
+# Javascript patterns
+
+Personal reference and examples of javascript patterns.
